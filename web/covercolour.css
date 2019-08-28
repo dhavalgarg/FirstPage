@@ -1,0 +1,29 @@
+body{
+    color: brown;
+    text-align: center;
+  
+}
+
+button
+{
+    width: 70px;
+    height: 40px;
+    margin-top: 120px;
+    color: beige;
+    border-radius: 25%;
+    background-color: black;
+    border: 2px solid red;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+button:hover
+{
+    background-color:whitesmoke;
+    color:black;
+   
+}
+head
+{
+    margin-top: 70px;
+}
